@@ -31,4 +31,4 @@ Berikut tahapan-tahapan project yang akan dilakukan:
 **Buat kesimpulan umumnya dan berikan rekomendasi tentang jenis usaha dan jumlah kursinya. Berikan komentar tentang peluang pengembangan usaha berbasis waralaba.** 
 
 3. Mempersiapkan presentasi
-- Siapkan presentasi penelitian untuk dibagikan kepada para investor. Kita bisa menggunakan tool apa saja untuk membuatnya, tetapi harus mengonversinya ke dalam format PDF agar presentasi lebih mudah untuk dinilai. Sertakan tautan menuju presentasi pada sel markdown dalam format beriku --> `Presentasi: <tautan ke penyimpanan cloud>` 
+- Siapkan presentasi penelitian untuk dibagikan kepada para investor. Kita bisa menggunakan tool apa saja untuk membuatnya, tetapi harus mengonversinya ke dalam format PDF agar presentasi lebih mudah untuk dinilai. Sertakan tautan menuju presentasi pada sel markdown dalam format beriku --> `Presentasi: <https://drive.google.com/file/d/1KHKqFjQQa1jZbHC-vKm4WPJGWZGwasxp/view?usp=sharing>` 
